@@ -31,7 +31,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+94782787563'] // owner number
 global.ownername = "😎Thilash❯❯" // owner name
-global.ytname = "panda text tool" // yt chanel name
+global.ytname = "PANDA TEXT TOOL" // yt chanel name
 global.socialm = "GitHub: thilashmendis" // github or insta name
 global.location = "colmobo, kurunagala, matale" // location
 
@@ -49,9 +49,9 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94782787563']
 global.ownertag = '+94782787563' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.botname = 'DARK PANDA- 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "DARK PANDA" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
@@ -191,7 +191,7 @@ global.rep = { // All Replies = 145
     K27: '😊ඇත්තමද?❤️',
     K28: '☺️👻ඔය ඇත්තමද❤️',
     K29: 'ඇයි🙄',
-    K30: '🥺✌️සිදෙනවද?',
+    K30: '🥺✌️?',
     K31: '😐💔ඕවට එන්න එපා හරිත😒',
     K32: '😏අනේ මේ😒 යනෝ යන්න💔',
     K33: 'ඔයා තමයි හොරා😒 මගෙ හිත හොරකම් කළානෙ ඉතිං😌',
@@ -215,8 +215,8 @@ global.rep = { // All Replies = 145
     K51: 'මොකද්ද දන්නෑ🥲',
     K52: '😝මම නං මුකුත් කරන්නෑ අනේ😁 ඔයාලා දිහා බලන් ඉන්නවා😌',
     K53: '🥺පාලුයි අනේ. අපි chat කරමුද?😊✌️',
-    K54: '😌😁ආදරෙයි❤️',
-    K55: '😌ආදලෙයි ඉතිං❤️❤️',
+    K54: '😌😁❤️',
+    K55: '😌❤️❤️',
     K56: '🥺🥺ඇත්තද?',
     K57: '🥺අනේ ඒ මොකද?🥴',
     K58: '😒මටත් දුකයි ඒ ගැන😕',
@@ -235,7 +235,7 @@ global.rep = { // All Replies = 145
     K71: '😂අපි තමයි හොඳටම කරේ🥲\n🤧රෙද්ද තමයි😂',
     K72: '🙄ආ හා 😏ගහපන් බලන්න💔👎',
     K73: 'හී😂😂😂💓',
-    K74: 'වන්ඩර්පුල්🥲😂',
+    K74: 'වන්ඩර්පුල්',
     K75: '😂ඕං බලන්නකො ඒකෙත් හැටි නේද🥴😂',
     K76: '😌එල',
     K77: '🥲මොකෝ ඩෝ😉❣️',
@@ -252,16 +252,16 @@ global.rep = { // All Replies = 145
     K88: '  👀  ',
     K89: '🥺ගිහින් බේත් ගන්න',
     K90: '🥺ගොඩක් අමාරුද?☝️',
-    K91: 'DSI පාරක් කන්න ආසද?😂',
+    K91: ' ආසද?😂',
     K92: ' ඉතිං😒',
-    K93: 'අත ලෙප්ට්🥲',
-    K94: '🫢🫢හරි නරකයි😒',
+    K93: 'ලෙප්ට්',
+    K94: 'නරකයි😒',
     K95: '😌මම නං කොහොමත් අහින්සකයි රටක් වටී😁❤️',
-    K96: 'අතේ...🥲🥲🥲🥲🥲🥲',
+    K96: '@####',
     K97: '😐දාන්න බෑ😒',
     K98: '📱🔌පෝන එක චාජ් එකට ගහලා ඔය ළමයා ගිහින් වැඩක් කරගන්න😉',
     K99: '🫢🤭ඇයි? අසහනේ ද?🤨😏💔',
-    K100: '💔පෙම් සිත රිදුනා සත්තලනේ🥺🤧',
+    K100: 'ේ🥺🤧',
     K101: '😹😹☝️',
     K102: 'බල්ලා පූසා මීයා හාවා නරියා අලියා😒',
-    K103: '🥲උරුලා ගති තමා',
+    K103: '🥲 ගති තමා',
